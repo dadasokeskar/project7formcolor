@@ -1,0 +1,29 @@
+h1{
+    font-size: 5;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-weight: bold;
+    font-variant: initial;
+    background-color: hotpink;
+}
+h5{
+    font-size: 5;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-weight: bold;
+    font-variant: initial;
+    background-color: hotpink;
+}
+div{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    line-height: 2;
+    font-size: larger;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color:brown;
+}
+p{
+    background-color: aqua;
+}
